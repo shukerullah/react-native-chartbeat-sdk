@@ -151,7 +151,7 @@ public class ChartbeatModule extends ReactContextBaseJavaModule {
     * put this in your onUserInteraction() function of your activity.
     */
   @ReactMethod
-  public static void userInteracted() {
+  public void userInteracted() {
     Tracker.userInteracted();
   }
 

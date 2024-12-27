@@ -1,7 +1,7 @@
 {
   "name": "react-native-chartbeat-sdk",
   "title": "React Native Chartbeat SDK",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The React Native Chartbeat SDK is a native library providing Chartbeat tracking functionality for Android and iOS apps.",
   "main": "index.js",
   "scripts": {
