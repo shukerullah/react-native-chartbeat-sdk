@@ -48,5 +48,5 @@ repositories {
 dependencies {
   //noinspection GradleDynamicVersion
   implementation 'com.facebook.react:react-native:+'  // From node_modules
-  implementation 'com.github.chartbeat:android_sdk:v1.7.3'
+  implementation 'com.github.chartbeat:android_sdk:1.7.3'
 }
